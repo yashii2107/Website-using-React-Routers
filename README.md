@@ -11,7 +11,7 @@ Key features:
 - **Vite** for fast and modern development.
 - Simple page structure using React Router with dynamic route handling.
 
-<b style = " font-size 35px">here the code for header:</b>
+<b style = " font-size 100px">here the code for header:</b>
 
 
  ``` Header
@@ -66,4 +66,3 @@ Key features:
 }
 
 
-Code for 
